@@ -1,13 +1,20 @@
 {
   "name": "express-bundle",
+  "description": "an express library to split up your application into multiple sub-apps (bundles)",
   "version": "0.0.1",
+  "homepage": "https://github.com/jgallen23/express-bundle",
+  "author": "Greg Allen <@jgaui> (http://jga.me)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgallen23/express-bundle.git"
+  },
   "dependencies": {
 		"aug": "*",
     "express": "*"
   },
 	"devDependencies": {
-		"jade": "*",
-		"stylus": "*"
-	}
+		"jade": "*"
+	},
+  "keywords": ["bundle", "express", "apps"]
 }
 
