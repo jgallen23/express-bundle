@@ -1,0 +1,13 @@
+{
+  "name": "express-bundle",
+  "version": "0.0.1",
+  "dependencies": {
+		"aug": "*",
+    "express": "*"
+  },
+	"devDependencies": {
+		"jade": "*",
+		"stylus": "*"
+	}
+}
+
