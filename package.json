@@ -11,10 +11,12 @@
   "dependencies": {
 		"aug": "*",
     "express": "*",
+    "express-namespace": "*",
     "stylus": "*"
   },
 	"devDependencies": {
-		"jade": "*"
+		"jade": "*",
+    "socket.io": "*"
 	},
   "keywords": ["bundle", "express", "apps"]
 }
