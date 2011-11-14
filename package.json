@@ -1,7 +1,7 @@
 {
   "name": "express-bundle",
   "description": "an express library to split up your application into multiple sub-apps (bundles)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/jgallen23/express-bundle",
   "author": "Greg Allen <@jgaui> (http://jga.me)",
   "repository": {
