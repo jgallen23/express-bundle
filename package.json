@@ -10,7 +10,7 @@
   },
   "dependencies": {
 		"aug": "*",
-    "express": "*",
+    "express": ">=4.14.1",
     "express-namespace": "*",
     "stylus": "*"
   },
