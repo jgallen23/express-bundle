@@ -16,7 +16,7 @@
   },
 	"devDependencies": {
 		"jade": "*",
-    "socket.io": "*"
+    "socket.io": ">=1.7.3"
 	},
   "keywords": ["bundle", "express", "apps"]
 }
